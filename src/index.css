@@ -1,8 +1,9 @@
 /* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 @font-face {
   font-family: 'Quicksand';
-  src: url('/Quicksand-Light.woff2') format('woff2'),
-      url('/Quicksand-Light.woff') format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap') format('woff2'),
+      url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap') format('woff');
   font-weight: 300;
   font-style: normal;
 }
